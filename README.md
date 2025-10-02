@@ -24,4 +24,4 @@ Tecnologías utilizadas
 
 
 
-Proyecto desarrollado por David Lopez como parte de mi formación en mi carrera**Ingeniería de Sistemas**.
+Proyecto desarrollado por David Lopez como parte de mi formación en **Ingeniería de Sistemas**.
