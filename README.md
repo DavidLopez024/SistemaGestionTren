@@ -19,9 +19,9 @@ Tecnologías utilizadas
 ## 📂 Estructura del proyecto
 - `docs/` → Diagramas UML, documentación y bitácora.
 - `src/` → Código fuente en Java.
-- `tests/` → Casos de prueba.
+- `tests/` → Casos de prueba. 
 - `README.md` → Información general del proyecto.
 
 
 
-Proyecto desarrollado por David Lopez como parte de mi formación en **Ingeniería de Sistemas**.
+Proyecto desarrollado por David Lopez como parte de mi formación en mi carrera**Ingeniería de Sistemas**.
